@@ -4,7 +4,7 @@
 
 ### Overview
 
-An R package for working with the [Louisville, KY open data portal](https://data.louisvilleky.gov/).
+An R package for working with the [Louisville, KY open data portal](http://portal.louisvilleky.gov/service/data).
 
 
 ### Installation
@@ -13,15 +13,3 @@ An R package for working with the [Louisville, KY open data portal](https://data
 devtools::install_github('smudgerville/dRby')
 
 ```
-
-
-## Description
-
-This package basically serves as a wrapper to the [ckanr](https://cran.r-project.org/web/packages/ckanr/index.html) package for the Louisville Open Data.  The Louisville Open Data API is actually DKAN and supported API calls are listed on the [Documentation Page](https://data.louisvilleky.gov/documentation)
-
-
-## Usage
-
-
-
-## ToDo
